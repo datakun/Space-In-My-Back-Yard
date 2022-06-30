@@ -1,0 +1,8 @@
+### module ###
+node_modules
+
+### build directory ###
+**/dist
+
+### type ###
+**/*.d.ts
